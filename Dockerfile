@@ -1,5 +1,5 @@
 FROM ubuntu:latest
 RUN apt update
-LABEL ownership=Venkata Srikanth
-LABEL mail=srikanth.techops@gmail.com
+LABEL author="Venkata Srikanth"
+LABEL maintainer="srikanth.techops@gmail.com"
 
